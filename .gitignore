@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+ai-engine/models/best.pt
